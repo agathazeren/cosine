@@ -1,0 +1,6 @@
+#+title: Cosine
+
+Cosine is a small tool to sync files to the IBM cloud. 
+
+* License
+Cosine is licensed under the GNU Public License, version 3 or later.
